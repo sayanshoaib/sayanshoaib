@@ -4,30 +4,30 @@
 - 💞️ I’m looking to collaborate on Backend Development.
 - 📫 How to reach me https://www.linkedin.com/in/shoaib-hasan-568528210/
 
-Area of expertise :
+#Area of expertise :
 
-# REST API design and development
-# Horizontally scalable and highly available systems design & development
-Automating development workflows and deployment pipelines
-Leveraging Micro-service architecture for system design and development
-Design and developing RTC/WebRTC and WebSocket applications
-Design and developing decentralized applications (DApps) & smart contracts
-Monitoring, log aggregation
+#### REST API design and development
+#### Horizontally scalable and highly available systems design & development
+#### Automating development workflows and deployment pipelines
+#### Leveraging Micro-service architecture for system design and development
+#### Design and developing RTC/WebRTC and WebSocket applications
+#### Design and developing decentralized applications (DApps) & smart contracts
+#### Monitoring, log aggregation
 
-Skills & Technologies:
+# Skills & Technologies:
 
-Java, Golang, C
-Spring, Spring Boot, Echo
-RESTful API
-PostgreSQL, MySQL, ElasticSearch
-RabbitMQ
-Docker
-WebSocket, WebRTC
-Blockchain, Ethereum
-Nginx
-Heroku, Digital Ocean
-Linux, macOS
-Build automation, CI/CD
+#### Java, Golang, C
+#### Spring, Spring Boot, Echo
+#### RESTful API
+#### PostgreSQL, MySQL, ElasticSearch
+#### RabbitMQ
+#### Docker
+#### WebSocket, WebRTC
+#### Blockchain, Ethereum
+#### Nginx
+#### Heroku, Digital Ocean
+#### Linux, macOS
+#### Build automation, CI/CD
 Interested in developing highly scalable distributed systems.
 
 Contact: shoaib.hasan1801@gmail.com
