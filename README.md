@@ -2,9 +2,9 @@
 - 👀 I am a Software Engineer, Open Source Enthusiast.
 - 🌱 I’m currently learning Distributed Systems, RealTime communications through WebSocket and WebRTC.
 - 💞️ I’m looking to collaborate on Backend Development.
-- 📫 How to reach me https://www.linkedin.com/in/shoaib-hasan-568528210/
+- 📫 How to reach me [Linkedln](https://www.linkedin.com/in/shoaib-hasan-568528210/)
 
-#Area of expertise :
+# Area of expertise :
 
 #### REST API design and development
 #### Horizontally scalable and highly available systems design & development
