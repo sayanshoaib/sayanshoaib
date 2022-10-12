@@ -6,8 +6,8 @@
 
 Area of expertise :
 
-REST API design and development
-Horizontally scalable and highly available systems design & development
+# REST API design and development
+# Horizontally scalable and highly available systems design & development
 Automating development workflows and deployment pipelines
 Leveraging Micro-service architecture for system design and development
 Design and developing RTC/WebRTC and WebSocket applications
