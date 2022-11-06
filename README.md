@@ -16,7 +16,7 @@
 
 ## Skills & Technologies:
 
-##### Java, Golang, C
+##### Java, Golang, C, Solidity
 ##### Spring, Spring Boot, Echo
 ##### RESTful API
 ##### PostgreSQL, MySQL, ElasticSearch
