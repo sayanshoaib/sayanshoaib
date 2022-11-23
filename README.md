@@ -19,7 +19,7 @@
 ##### Java, Golang, C, Solidity
 ##### Spring, Spring Boot, Echo
 ##### RESTful API
-##### PostgreSQL, MySQL, ElasticSearch
+##### PostgreSQL, MySQL, Redis
 ##### Docker
 ##### WebSocket, WebRTC
 ##### Blockchain, Ethereum
