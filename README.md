@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sayanshoaib
 - 👀 I am a Software Engineer, Open Source Enthusiast.
-- 🌱 I’m currently learning Distributed Systems, RealTime communications through WebSocket and WebRTC.
+- 🌱 I’m currently learning Distributed Systems, Kubernetes, AWS and RealTime communication protocals.
 - 💞️ I’m looking to collaborate on Backend Development.
 - 📫 How to reach me [Linkedln](https://www.linkedin.com/in/shoaib-hasan-568528210/)
 
@@ -16,7 +16,7 @@
 
 ## Skills & Technologies:
 
-##### Java, Golang, C, Solidity
+##### Java, Golang, Solidity
 ##### Spring, Spring Boot, Echo
 ##### RESTful API
 ##### PostgreSQL, MySQL, Redis
