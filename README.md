@@ -16,15 +16,15 @@
 
 ## Skills & Technologies:
 
-##### Java, Golang, Solidity
-##### Spring, Spring Boot, Echo
-##### RESTful API
-##### PostgreSQL, MySQL, Redis
-##### Docker
-##### WebSocket, WebRTC
+##### Java, Golang, Python
+##### Spring Boot, Echo, Fiber, FastAPI
+##### RESTful API, GraphQL
+##### PostgreSQL, MongoDB, Redis
+##### Docker, Kubernetes, Terraform
+##### Kafka, RabbitMQ, WebSocket
 ##### Blockchain, Ethereum
 ##### Nginx
-##### Heroku, Digital Ocean
+##### AWS, Digital Ocean
 ##### Linux, macOS
 ##### Build automation, CI/CD
 Interested in developing highly scalable distributed systems.
